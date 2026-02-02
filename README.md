@@ -29,4 +29,3 @@ Este repositorio es una colección de herramientas avanzadas para el diagnóstic
 - Privilegios hacia los diccionarios de datos.
 
 **Autor:** Luis Barba Sosa 
-**Oracle ACE Apprentice**
